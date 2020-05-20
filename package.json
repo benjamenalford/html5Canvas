@@ -1,0 +1,26 @@
+{
+    "name": "html5canvas",
+    "version": "1.0.0",
+    "description": "Bored and making a HTML / JS Pong knock off",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest",
+        "test-watch": "jest  --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/benjamenalford/html5Canvas.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/benjamenalford/html5Canvas/issues"
+    },
+    "homepage": "https://github.com/benjamenalford/html5Canvas#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "@babel/preset-env": "^7.9.6",
+        "babel-jest": "^26.0.1",
+        "jest": "^26.0.1"
+    }
+}
